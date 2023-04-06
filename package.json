@@ -2,6 +2,10 @@
   "name": "react-address",
   "version": "0.0.2",
   "description": "React 中国省市级联选择器",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limuen/react-address.git"
+  },
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
