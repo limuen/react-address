@@ -1,7 +1,7 @@
 {
   "name": "react-address",
-  "version": "0.0.3",
-  "description": "React 中国省市级联选择器",
+  "version": "0.0.4",
+  "description": "React 省市级联选择器",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/limuen/react-address.git"
